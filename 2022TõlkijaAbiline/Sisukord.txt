@@ -1,0 +1,12 @@
+1. TÄHEORTOGRAAFIA:
+        võõrsõnad, võõrnimed, tsitaatsõnad, võõrnimetuletised
+2. ALGUSTÄHEORTOGRAAFIA:
+        kohad-ehitised, asutused-firmad-ühendused-org,
+        riigid-osariigid, isikud-olendid, 
+        perioodikaväljaanded,
+        teosed-dokumendid-sarjad-rubriigid, ajaloosündmused,
+        autasud, üritused, taimesordid, kaubad, sõidukid, muu
+3. KOKKU- JA LAHKUKIRJUTAMINE
+4. NUMBRITE KIRJUTAMINE
+5. KIRJAVAHEMÄRGID:
+        koma, koolon, sidekriips, mõttekriips, jutumärgid
